@@ -16,5 +16,6 @@ I build real-world AI systems for cloud, support operations, and product teams.
 Python | LLMs | Dify | Cloud | Data pipelines  
 
 ## 📬 Connect
-[https://www.linkedin.com/in/cleverson-machado-gallego-55814a19/]
-[https://cleversonmachado.wixsite.com/who-am-i]
+[Linkedin](https://www.linkedin.com/in/cleverson-machado-gallego-55814a1/)
+[My website](https://cleversonmachado.wixsite.com/who-am-i)
+[My Blog](https://capyborg.com/)
