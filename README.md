@@ -26,7 +26,7 @@ Currently working on turning LLMs into practical tools for support, decision-mak
 Python | LLMs | Dify | Cloud | Data pipelines
 
 ## About me
-Senior Technical Product Manager with 28+ years in tech focused on AI, cloud and platform products in high-scale, constraint-driven environments.
+Senior Technical Product Manager with 20+ years in tech focused on AI, cloud and platform products in high-scale, constraint-driven environments.
 
 I work at the intersection of engineering, data and business, owning platform strategy, technical trade-offs and stakeholder alignment.
 
