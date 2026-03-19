@@ -1,18 +1,28 @@
 # 👋 Hi, I'm Cleverson
 
-I build real-world AI systems for cloud, support operations, and product teams.
+I build AI systems applied to real-world products and cloud operations.
+
+Currently working on turning LLMs into practical tools for support, decision-making, and product intelligence.
 
 ## 🚀 Current Focus
-- AI agents for product operations  
-- LLM-based support automation  
-- AI-powered product decision systems  
+
+- AI agents for DBaaS and cloud operations  
+- LLM pipelines for support and incident resolution  
+- AI systems for product intelligence and decision-making  
 
 ## 🧠 Projects
-- Product Intelligence Radar (in progress)  
-- LLM fine-tuning experiments  
-- AI support agents  
+
+- **DBaaS Intelligence Radar**  
+  AI pipeline to monitor database ecosystem changes and generate structured insights  
+
+- **LLM Fine-tuning Experiments**  
+  Exploring small models (Gemma 3B) for practical use cases  
+
+- **AI Support Agents**  
+  Q&A systems trained on documentation and real incidents  
 
 ## ⚙️ Stack
+
 Python | LLMs | Dify | Cloud | Data pipelines  
 
 ## 📬 Connect
