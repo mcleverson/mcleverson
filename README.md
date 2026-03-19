@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Cleverson
 
-<!--
-**mcleverson/mcleverson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build real-world AI systems for cloud, support operations, and product teams.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- AI agents for product operations  
+- LLM-based support automation  
+- AI-powered product decision systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projects
+- Product Intelligence Radar (in progress)  
+- LLM fine-tuning experiments  
+- AI support agents  
+
+## ⚙️ Stack
+Python | LLMs | Dify | Cloud | Data pipelines  
+
+## 📬 Connect
+[https://www.linkedin.com/in/cleverson-machado-gallego-55814a19/]
+[https://cleversonmachado.wixsite.com/who-am-i]
