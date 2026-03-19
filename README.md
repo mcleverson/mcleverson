@@ -14,11 +14,11 @@ Currently working on turning LLMs into practical tools for support, decision-mak
 
 ## 🧠 Projects
 
-- **DBaaS Intelligence Radar**  
-  AI pipeline to monitor database ecosystem changes and generate structured insights  
+- **Product Intelligence Radar**  
+  AI pipeline to monitor product ecosystem changes and generate structured insights  
 
 - **LLM Fine-tuning Experiments**  
-  Exploring small models (Gemma 3B) for practical use cases  
+  Exploring small models (Gemma 3) for practical use cases  
 
 - **AI Support Agents**  
   Q&A systems trained on documentation and real incidents  
