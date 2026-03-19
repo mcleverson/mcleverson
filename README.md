@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Cleverson
 
+Senior Technical Product Manager with 28 years in tech, now focused on building applied AI systems.
+
 I build AI systems applied to real-world products and cloud operations.
 
 Currently working on turning LLMs into practical tools for support, decision-making, and product intelligence.
