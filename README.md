@@ -39,6 +39,6 @@ My background includes:
 • Platform strategy and technical product management
 
 ## 📬 Connect
-- [Linkedin](https://www.linkedin.com/in/cleverson-machado-gallego-55814a1/)
+- [Linkedin](https://www.linkedin.com/in/cleverson-machado-gallego-55814a19/)
 - [My website](https://cleversonmachado.wixsite.com/who-am-i)
 - [My Blog](https://capyborg.com/)
